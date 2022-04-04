@@ -5,8 +5,8 @@
     "node": "14.17.4"
   },
   "scripts": {
-    "ng": "node app.js",
-    "start": "ng serve",
+    "ng": "ng",
+    "start": "node app.js",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
